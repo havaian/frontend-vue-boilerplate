@@ -1,7 +1,23 @@
-# Vue 3 + Vite
+# [ Vue + Vite ] front-end boilerplate
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Installation
 
-## Recommended IDE Setup
+<ul>
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+##### <li> Fork / download the github repository </li>
+
+##### <li> Install node modules ``npm install`` </li>
+
+##### <li> Set up env variables in ``.env.sample``  </li>
+
+##### <li> Rename the ``.env.sample`` file to ``.env.local`` </li>
+
+##### <li> Default backend url for axios is in ``src/main.js`` </li>
+
+##### <li> You can find routes in ``src/router/main.js`` </li>
+
+##### <li> Configs are in ``/vite.config.js`` </li>
+
+##### <li> Run the project with ``npn run dev`` </li>
+
+</ul>
