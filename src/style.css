@@ -27,40 +27,6 @@ body {
   grid-template-columns: 5% 95%;
 }
 
-/* WRAPPER DIV FOR SIDEMENU */
-.menu {
-  position: relative;
-  background-color: rgb(255, 255, 255);
-  height: 100%;
-  width: 100%;
-  border-right: 1px solid black;
-}
-
-.menu-wrapper {
-  display: grid;
-  height: 30%;
-  width: 100%;
-  position: relative;
-}
-
-.menu-wrapper a {
-  display: grid;
-  color: #fff;
-  text-decoration: none;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-  width: 100%;
-  
-  background-color: rgb(255, 255, 255);
-  transition: all 0.2s ease;
-}
-
-.menu a:hover {
-  background-color: rgb(226, 226, 226);
-  transition: all 0.2s ease;
-}
-
 /* WRAPPER DIV FOR EVERY PAGE */
 #wrapper {
   padding: 3% 5% 5% 5%;
